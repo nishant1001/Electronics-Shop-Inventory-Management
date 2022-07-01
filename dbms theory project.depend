@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1649652023 source:c:\users\nishant kumar\documents\c++\dbms theory project\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
+1648885453 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1648885453 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1648885453 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1648885453 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1648885453 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1648885453 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1648885453 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
